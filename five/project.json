@@ -1,6 +1,6 @@
 {
-  "name": "importing Notepad text into word",
-  "projectId": "f87374c8-1669-4428-ab94-68d930a63aec",
+  "name": "GDP checker to start Bussiness",
+  "projectId": "0722f5b2-5c21-46cf-b40d-0c79e4ffa96e",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "25.0.161.0",
-  "projectVersion": "1.0.3",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "b5407fc8-fdaa-40fb-a255-84c582b6ddba",
+      "uniqueId": "1e0bc1c6-bdd1-4662-9803-9781dabe0c48",
       "input": [],
       "output": []
     }
